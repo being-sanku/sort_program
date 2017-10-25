@@ -5,9 +5,7 @@ Options :
 2)Dictionary Order.
 3)Ignore Case.
 4)Consider non printable character.
-5)Month Sort.
+5)Month Sort. 
 6)Numeric Sort.
 7)Reverse the output.
 8)Merge two sorted files.
-9)Field Seperator.
-10)Sort considering only printable characters.
