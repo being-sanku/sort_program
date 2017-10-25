@@ -25,7 +25,7 @@ int main (int argc, char ** argv)
             break;
         }
         switch (c) {
-        case 'm': moption(&s);
+        case 'M': moption(&s);
             break;
         case 'k':
         	scanf("%s", i);
